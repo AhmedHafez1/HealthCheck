@@ -1,0 +1,2 @@
+C:\Users\ahafez.LAPTOP-Q45B39BO\source\repos\HealthCheck\HealthCheck\obj\Debug\HealthCheck.esproj.SuggestedBindingRedirects.cache
+C:\Users\ahafez.LAPTOP-Q45B39BO\source\repos\HealthCheck\HealthCheck\obj\Debug\HealthCheck.esproj.CoreCompileInputs.cache
